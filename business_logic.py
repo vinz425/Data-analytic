@@ -1,6 +1,6 @@
 """
 ==============================================================================
-MODULE 3: BUSINESS LOGIC — Fiscal Impact & Data Governance Engine
+: BUSINESS LOGIC — Fiscal Impact & Data Governance Engine
 ==============================================================================
 Purpose : Translate the physical production variance (BOE) into a monetary
           revenue exposure figure (GBP), and flag data-quality anomalies
